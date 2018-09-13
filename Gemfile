@@ -4,4 +4,5 @@ gem 'jekyll'
 
 gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
+gem "jekyll-remote-theme"
 gem "jekyll-paginate"
